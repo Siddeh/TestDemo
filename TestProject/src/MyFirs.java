@@ -5,6 +5,8 @@ public class MyFirs {
 		// TODO Auto-generated method stub
 System.out.println("Git demo");
 System.out.println("Git demo");
+System.out.println("Git demo");
+System.out.println("Git demo");
 	}
 
 }
