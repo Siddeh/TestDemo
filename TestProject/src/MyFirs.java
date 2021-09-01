@@ -9,6 +9,7 @@ System.out.println("Git demo");
 System.out.println("Git demo");
 System.out.println("Git demo 2nd commit");
 System.out.println("3rd commit");
+System.out.println("3rd commit 2");
 
 	}
 
